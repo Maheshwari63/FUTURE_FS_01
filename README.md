@@ -29,3 +29,6 @@ The objectives of this project are:
 
 📌 Status  
 This project is completed for the current task and can be improved further with additional sections and styling in the future.
+
+🌐 Live Preview  
+This project can be viewed by opening the `index.html` file in a web browser.
